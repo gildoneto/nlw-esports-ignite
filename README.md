@@ -13,6 +13,14 @@ Este repositório centraliza os 3 projetos da trilha:
 Certifique-se de instalar versão LTS/Gallium do node.js v16.17.0
 ### Server:
 
+- entre na pasta server
+  - `cd server`
+- instale as dependências do projeto
+  - `npm install`
+- digite o comando para iniciar o projeto
+  - `npm run dev`
+- para iniciar o prisma studio
+  - `npx prisma studio`
 ### Web:
 
 ### Mobile:
